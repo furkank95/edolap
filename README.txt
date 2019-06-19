@@ -1,12 +1,12 @@
-Projede kullanılan teknolojiler;
-Web Uygulaması -> ASP.NET MVC
-Kiosk Panel Uygulaması -> Java
-Arduino uygulaması -> Arduino IDE
-Veritabanı -> MSSQL
+Projede kullanÄ±lan teknolojiler;
+Web UygulamasÄ± -> ASP.NET MVC
+Kiosk Panel UygulamasÄ± -> Java
+Arduino uygulamasÄ± -> Arduino IDE
+VeritabanÄ± -> MSSQL
 
-*Web uygulaması FTP serverde çalışak hale publish edilerek getirilmiştir. (Web Uygulaması FTP) Bu klasördeki dosyalar FTP sunucusuna atılarak çalıştırılabilir.
-*Web uygulamasının ASP.NET MVC üzerindeki kodları. (Web Uygulaması) Bu klasördeki solution üzerinden kodlar değiştirilebilir.
-*Kiosk paneldeki PC'ye java uygulaması kurulacaktır. (Kiosk.zip) dosyası Netbeans ortamına yüklenip kodlar görüntülenebilir/düzenlenebilir. Netbeans ortamında uygulama çalıştırılabilir.
-*Kiosk paneldeki PC, master arduinoya COM3 portu üzerinden bağlanacaktır. Başka bir port kullanılmak istenirse Java uygulamasındaki (webServer.java) dosyasından değiştirilebilir.
-*Master arduino ve slave arduino kodları (Arduino) klasöründe bulunmaktadır. Gerekli pin bağlantılarını kodlar içerisinde yada fritzing çizimlerinde bulabilirsiniz.
-*Switchler üzerinden dolapların ID'leri ayarlanabilir. ID'ler ayarlandıktan sonra sisteme enerji verilmelidir.
+*Web uygulamasÄ± FTP serverde Ã§alÄ±ÅŸacak hale publish edilerek getirilmiÅŸtir. (Web UygulamasÄ± FTP) Bu klasÃ¶rdeki dosyalar FTP sunucusuna atÄ±larak Ã§alÄ±ÅŸtÄ±rÄ±labilir.
+*Web uygulamasÄ±nÄ±n ASP.NET MVC Ã¼zerindeki kodlarÄ±. (Web UygulamasÄ±) Bu klasÃ¶rdeki solution Ã¼zerinden kodlar deÄŸiÅŸtirilebilir.
+*Kiosk paneldeki PC'ye java uygulamasÄ± kurulacaktÄ±r. (Kiosk.zip) dosyasÄ± Netbeans ortamÄ±na yÃ¼klenip kodlar gÃ¶rÃ¼ntÃ¼lenebilir/dÃ¼zenlenebilir. Netbeans ortamÄ±nda uygulama Ã§alÄ±ÅŸtÄ±rÄ±labilir.
+*Kiosk paneldeki PC, master arduinoya COM3 portu Ã¼zerinden baÄŸlanacaktÄ±r. BaÅŸka bir port kullanÄ±lmak istenirse Java uygulamasÄ±ndaki (webServer.java) dosyasÄ±ndan deÄŸiÅŸtirilebilir.
+*Master arduino ve slave arduino kodlarÄ± (Arduino) klasÃ¶rÃ¼nde bulunmaktadÄ±r. Gerekli pin baÄŸlantÄ±larÄ±nÄ± kodlar iÃ§erisinde yada fritzing Ã§izimlerinde bulabilirsiniz.
+*Switchler Ã¼zerinden dolaplarÄ±n ID'leri ayarlanabilir. ID'ler ayarlandÄ±ktan sonra sisteme enerji verilmelidir.
